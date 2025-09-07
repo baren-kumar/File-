@@ -1,0 +1,5 @@
+Date,Shift,Machine_ID,Material_Batch,Operator_ID,Temperature_C,Humidity_%,Run_Time_Hours,Scrap_Weight_kg,Total_Production_kg,Scrap_Rate
+2025-09-01,Day,M-001,A123,Op-101,22.5,45,8,15.2,500,0.0304
+2025-09-01,Night,M-002,B456,Op-102,21,48,7.5,12.8,480,0.0267
+2025-09-02,Day,M-001,A124,Op-101,23,44,8,18.5,510,0.0363
+...,...,...,...,...,...,...,...,...,...,...
